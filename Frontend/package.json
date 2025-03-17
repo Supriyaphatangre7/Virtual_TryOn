@@ -17,7 +17,10 @@
     "react-icons": "^5.5.0",
     "react-router-dom": "^7.3.0",
     "react-typing-effect": "^2.0.5",
+<<<<<<< HEAD
     "router": "^1.3.8",
+=======
+>>>>>>> fbc44b559228d30f0bcbbd2edd2e2ca4d09a2532
     "tailwindcss": "^4.0.14"
   },
   "devDependencies": {
